@@ -8,6 +8,6 @@ Acceso a Introducción ➡️
  2.-[Instalación](https://github.com/Moisesmart/wget/blob/main/2.-Instalación.md)
  
 Acceso a Ejemplos ➡️
-3.-[Ejemplos](https://github.com/Moisesmart/wget/3.-Ejemplos.md)
+3.-[Ejemplos](https://github.com/Moisesmart/wget/blob/main/3.-Ejemplos.md)
 
  ## Referencias:
