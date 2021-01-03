@@ -11,6 +11,6 @@ Acceso a Ejemplos ➡️
 3.-[Ejemplos](https://github.com/Moisesmart/wget/blob/main/3.-Ejemplos.md)
 
 ##Imagen captura comando wget ➡️
-(https://github.com/Moisesmart/wget/blob/main/Wget-screenshot.webp)
+(https://raw.githubusercontent.com/Moisesmart/wget/main/Wget-screenshot.webp)
  ## Referencias:
  https://www.hostinger.es/tutoriales/usar-comando-wget/#Que-es-el-Comando-Wget
