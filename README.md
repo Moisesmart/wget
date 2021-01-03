@@ -7,7 +7,7 @@ Acceso a Introducción ➡️
  Acceso a Instalación ➡️
  2.-[Instalación](https://github.com/Moisesmart/wget/blob/main/2.-Instalación.md)
  
-[3.- Ejemplos](https://github.com/Moisesmart/wget/3.-Ejemplos.md)
+Acceso a Ejemplos ➡️
 3.-[Ejemplos](https://github.com/Moisesmart/wget/3.-Ejemplos.md)
 
  ## Referencias:
