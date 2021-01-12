@@ -1,5 +1,5 @@
-# wget
-WGET
+# WGET
+
 ## ÍNDICE :
 Acceso a Introducción ➡️
 1.-[Introducción](https://github.com/Moisesmart/wget/blob/main/1.-Introducción.md)
